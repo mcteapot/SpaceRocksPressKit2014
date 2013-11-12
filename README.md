@@ -1,0 +1,1 @@
+Point your Apache to the root folder 

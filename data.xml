@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+	<developer>CyborgDino Inc</developer>
+	<title>Asteroid Soccer 2014</title>
+	<release-date>November 12, 2013</release-date>
+	<website>http://www.asteroidsoccer.com</website>
+	<based-in>Los Angeles, CA</based-in>
+	
+	<press-contact>contact@cyborgdino.com</press-contact>
+	<platforms>
+		<platform>
+			<name>OUYA</name>
+			<link>https://www.ouya.tv/game/Amazing-Frog-The-Hopping-Dead/</link>
+		</platform>
+	</platforms>
+
+	<socials>
+		<social>
+			<name>twitter.com/cyborgdino</name>
+			<link>twitter.com/cyborgdino</link>
+		</social>
+<!-- 		<social>
+			<name>Skype</name>
+			<link>callto:MySkypeName</link>
+		</social>
+ -->	
+	</socials>
+
+	<description>	
+		In the future, scientists have invented Asteroid Soccer, scientifically designed to be the absolutely perfect sport, rendering all other sports completely obsolete. 
+		The rules are simple.  Push the giant asteroid ball into your opponent's goal by any means possible.  Equip yourself with the most overpowered
+		weapons, thrusters, bombs, and anything you can find on the spacefield to dodge, crash, blast, and explode your way to victory. 
+	</description>
+		
+	<histories>
+		<history>
+			<header>Birth</header>
+			<text>The idea for this game was born one day at <![CDATA[<a href="http://www.glitchcity.org">Glitch City</a>]]>, during one of our communal brainstorming sessions, where we throw around new project ideas. We were on the topic of sport games, when Archie expressed his disdain of the genre. So he decided to make one.</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>Archie spent about a week making a prototype of what would become Asteroid Soccer.  After it's first playtest with fellow Glitch City dwellers, it was clear that the game had potential. He made the decision to finish the game and publish it on the OUYA console. Soon after, Seiji joined the project to help him finish the game in a timely manner.   </text>
+		</history>
+	</histories>
+
+
+	<earlyaccess>
+		<price>
+			<currency>USD</currency>
+			<value>$2.99</value>
+		</price>
+	</earlyaccess>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$3.99</value>
+		</price>
+<!-- 		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+ -->	</prices>
+
+	<features>
+		<feature>A fast-paced competitive arcade action with simple controls</feature>
+		<feature>Up to 6 players on local multiplayer</feature>
+		<feature>Many different modes and power-ups for varying degrees of havoc and chaos.</feature>
+	</features>
+		
+	<trailers>
+		<trailer>
+			<name>Early Access Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+	
+<!-- 	<additionals>
+		<additional>
+			<title>CyborgDino</title>
+			<description> </description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+ -->	
+	<credits>
+		<credit>
+			<person>Arjun Prakash</person>
+			<role>Lead Designer, Programmer</role>
+		</credit>
+		<credit>
+			<person>Seiji Tanaka</person>
+			<role>Programmer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@cyborgdino.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/cyborgdino</link>
+		</contact>
+<!-- 		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/MyCompanyName</link>
+		</contact>
+ -->		<contact>
+			<name>Web</name>
+			<link>www.cyborgdino.com</link>
+		</contact>
+	</contacts>
+</game>
