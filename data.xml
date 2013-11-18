@@ -102,13 +102,13 @@
 	
 	<quotes>
 		<quote>
-			<description>This is like the FIFA of the OUYA</description>
+			<description>This is like the FIFA of the OUYA.</description>
 			<name>Borut Pfifer</name>
 			<website>Skulls of the Shogun</website>
 			<link>http://skullsoftheshogun.com/</link>
 		</quote>
 		<quote>
-			<description>I dont see the website name in your trailer</description>
+			<description>I don't see the website link in your trailer.</description>
 			<name>Brendon Chung</name>
 			<website>Blendo Games</website>
 			<link>http://blendogames.com/</link>
@@ -124,7 +124,7 @@
  	<additionals>
 		<additional>
 			<title>Boilerplate</title>
-			<description>cyborgDino is a member of the Glitch City artist collective.</description>
+			<description>cyborgDino is a member of the Glitch City artist collective. Glitch city is the home of games such as Skulls of the Shogun, Kachina, Quadrilateral Cowboy and Hyper Light Drifter. More info can be found at </description>
 			<link>http://glitchcity.org/</link>
 		</additional>
 	</additionals>
