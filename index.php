@@ -563,7 +563,7 @@ function parseHubLink($uri)
 
         <!-- Quote start -->
         <div id="quotes">
-        <h2>Selected Articles</h2>
+        <h2>Selected Quotes</h2>
         <ul>
         <?php 
 			for( $i = 0; $i < count($quotes); $i++ )
