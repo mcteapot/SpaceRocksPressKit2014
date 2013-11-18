@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <game>	
-	<developer>CyborgDino Inc</developer>
+	<developer>cyborgDino</developer>
 	<title>Asteroid Soccer 2014</title>
 	<release-date>November 12, 2013</release-date>
 	<website>http://www.asteroidsoccer.com</website>
@@ -28,19 +28,17 @@
 	</socials>
 
 	<description>	
-		In the future, scientists have invented Asteroid Soccer, scientifically designed to be the absolutely perfect sport, rendering all other sports completely obsolete. 
-		The rules are simple.  Push the giant asteroid ball into your opponent's goal by any means possible.  Equip yourself with the most overpowered
-		weapons, thrusters, bombs, and anything you can find on the spacefield to dodge, crash, blast, and explode your way to victory. 
+		In the future, scientists have scientifically invented Asteroid Soccer! Designed to be the absolutely perfect sport, it has rendered all other sports obsolete in the year 2014. The rules are simple. Pilot your Viper Fighter XJ42 and push the giant space ball into your opponent's goal by any means possible. Equip yourself with the most overpowered weapons, thrusters, bombs, and anything you can find on the space-field so that you can dodge, crash, blast, and explode your way to victory.
 	</description>
 		
 	<histories>
 		<history>
 			<header>Birth</header>
-			<text>The idea for this game was born one day at <![CDATA[<a href="http://www.glitchcity.org">Glitch City</a>]]>, during one of our communal brainstorming sessions, where we throw around new project ideas. We were on the topic of sport games, when Archie expressed his disdain of the genre. So he decided to make one.</text>
+			<text>Asteroid Soccer was conceived at the artists collective known as Glitch City.  It is also the home of other notable projects such as Skulls of the Shogun, Kachina, Quadrilateral Cowboy and Hyper Light Drifter. The idea for this game was born one day at Glitch City during one of our communal brainstorming sessions. General consensus amongst members was that sports games were not their bag. A few of the members took up the challenge to come up with a sports game that core gamers would want to play. Leading the project was Arjun Prakash and Seiji Tanaka formerly of That Game Company. Once the initial prototype was created, we realized we had a crazy fun co-op party game on our hands. A visit from Kelly Santiago left Glitch City with an OUYA.  We felt this console was the perfect home for Asteroid Soccer due to its strong lineup of local multiplayer games.</text>
 		</history>
 		<history>
-			<header>After that</header>
-			<text>Archie spent about a week making a prototype of what would become Asteroid Soccer.  After it's first playtest with fellow Glitch City dwellers, it was clear that the game had potential. He made the decision to finish the game and publish it on the OUYA console. Soon after, Seiji joined the project to help him finish the game in a timely manner.   </text>
+			<header>Ouya Early Access</header>
+			<text>For the release of the game we are trying something new that has never been done on the OUYA--an early access model in the vain of the steam store.  Although the core of the game is fully functional and fun, we would like to create more content with expanded modes. By offering the game at 25% discount for $2.99, we hope to subsidize the remainder of the development cycle.</text>
 		</history>
 	</histories>
 
@@ -72,80 +70,73 @@
  -->	</prices>
 
 	<features>
-		<feature>A fast-paced competitive arcade action with simple controls</feature>
-		<feature>Up to 6 players on local multiplayer</feature>
-		<feature>Many different modes and power-ups for varying degrees of havoc and chaos.</feature>
+		<feature>Fast-paced retro arcade action with simple controls driven by 2-6 local multiplayer co-op.</feature>
+		<feature>Genre bending game combining a shmup and soccer.</feature>
+		<feature>Featuring multiple modes with different types of gameplay.</feature>
+		<feature>Mind altering Waltz Match: one player controls two ships at a time!</feature>
+		<feature>Coming soon: power-ups for varying degrees of havoc and chaos.</feature>
+		<feature>Original project from the Glitch City collective.</feature>
 	</features>
 		
 	<trailers>
 		<trailer>
-			<name>Early Access Trailer</name>
-			<youtube>7jQbITg0MSk</youtube>
+			<name>Asteroid Soccer 2014 - Debut Trailer</name>
+			<youtube>2feudvK7y2g</youtube>
 		</trailer>
 	</trailers>
 	
 	<awards>
 		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
+			<description>Winnter of the nobel sports peace prize</description>
+			<info>Mars colony #837, 20 October, 2025</info>
 		</award>
 		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
+			<description>Nomination for the best retro game of an asteroid nature</description>
+			<info>Pyongyang, 4 December, 2017</info>
 		</award>
 		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
+			<description>Winner of a highly relevant contest.</description>
+			<info>Important Location, 20 October, 1988</info>
 		</award>
 	</awards>
 	
 	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>This is like the FIFA of the OUYA</description>
+			<name>Borut Pfifer</name>
+			<website>Skulls of the Shogun</website>
+			<link>http://skullsoftheshogun.com/</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
+			<description>I dont see the website name in your trailer</description>
+			<name>Brendon Chung</name>
+			<website>Blendo Games</website>
+			<link>http://blendogames.com/</link>
 		</quote>
 		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
-		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
+			<description>What is something I said about it?</description>
+			<name>Ben Esposito</name>
+			<website>Arcane Kids</website>
+			<link>http://arcanekids.com/</link>
 		</quote>
 	</quotes>
 	
-<!-- 	<additionals>
+ 	<additionals>
 		<additional>
-			<title>CyborgDino</title>
-			<description> </description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Boilerplate</title>
+			<description>cyborgDino is a member of the Glitch City artist collective.</description>
+			<link>http://glitchcity.org/</link>
 		</additional>
 	</additionals>
- -->	
+ 
 	<credits>
 		<credit>
-			<person>Arjun Prakash</person>
+			<person>Archie Prakash</person>
 			<role>Lead Designer, Programmer</role>
 		</credit>
 		<credit>
 			<person>Seiji Tanaka</person>
-			<role>Programmer</role>
+			<role>Lead Programmer, Artist</role>
 		</credit>
 	</credits>
 	

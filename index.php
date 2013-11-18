@@ -134,7 +134,7 @@ foreach( $xml->children() as $child )
 				$quotes[$i][$subchild->getName()] = $subchild;
 				$i++;
 			}
-			break;					
+			break;				
 		case("additionals"):
 			$additionals = array();
 			$i = 0;
@@ -592,7 +592,7 @@ function parseHubLink($uri)
 		if( count($additionals) > 0 )
 		{
 			echo('<div id="links">');
-	        echo('<h2>Additional Links</h2>');
+	        echo('<h2>About cyborgDino</h2>');
 			for( $i = 0; $i < count($additionals); $i++ )
 			{
 				$title = $description = $link = "";
