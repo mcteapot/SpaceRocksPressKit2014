@@ -8,13 +8,16 @@ body
 	width:100%;
 	min-width:960px;
 	line-height:1.6em;
+	background-image:url('background.png');
+	color:#CCDEFF;
+
 }
 
 h2
 {
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size:18px;	
-	color:#444;
+	color:#B8B8B8;
 	padding-top:12px;
 }
 
@@ -43,7 +46,7 @@ img#header
 #media-download
 {
 	border:1px #999 solid;
-	color:#666;
+	color:#B8B8B8;
 	line-height:32px;
 	border-radius:2px;
 	width:720px;
@@ -117,7 +120,7 @@ img#header
 
 #navigation a:hover
 {
-	color:#000;
+	color:#FAFAF5;
 }
 
 #factsheet

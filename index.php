@@ -223,7 +223,7 @@ function parseHubLink($uri)
 
 	function checkVis(elem)
 	{
-		if( isVis( "#"+elem ) ) $("#m-"+elem).css("color","#000"); else $("#m-"+elem).css("color","#666");
+		if( isVis( "#"+elem ) ) $("#m-"+elem).css("color","#FAFAF5"); else $("#m-"+elem).css("color","#666");
 	}
 
 	function isVis(elem)
